@@ -60,7 +60,6 @@ plugins:
 footer:
   links:
     - label: "ricardo jorge lopes lab research"
-      icon: "fab fa-fw fa-university"
       url: "https://ricardojorgelopes.com/"
 
 defaults:
