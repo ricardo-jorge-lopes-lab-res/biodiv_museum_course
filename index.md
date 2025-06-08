@@ -3,8 +3,8 @@ title: Home
 layout: single
 author_profile: false
 header:
-  image: /biodiv_museum_course/assets/images/hero.jpg
-  alt: "Description of the image"
+  image: /assets/images/hero.jpg
+  image_description: "Description of the image"
 ---
 
 # Welcome to My Project
