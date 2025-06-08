@@ -1,7 +1,10 @@
 ---
 title: Home
 layout: single
-author_profile: true
+author_profile: false
+header:
+  image: /my-project/assets/images/hero.jpg
+  alt: "Description of the image"
 ---
 
 # Welcome to My Project
