@@ -33,16 +33,6 @@ feature_row:
 
 
 
-gallery:
-  - url: /assets/images/logo_ce3c.png
-    image_path: /assets/images/logo_ce3c.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/logo_fcul.png
-    image_path: /assets/images/logo_fcul.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/logo_muhnac.png
-    image_path: /assets/images/logo_muhnac.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+
+
+{% include feature_row %}
