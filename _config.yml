@@ -1,16 +1,17 @@
-title: Your Site Title
+title: My Project Page
 description: A simple one-page website
+url: "https://ricardo-jorge-lopes-lab-res.github.io"
+baseurl: "/biodiv_museum_course"  # Replace with your repo name
 remote_theme: mmistakes/minimal-mistakes@4.27.0
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# Optional: Customize theme settings
 minimal_mistakes_skin: default
 author:
   name: "Your Name"
-  bio: "A short bio about you."
+  bio: "A short bio."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/username"
+      url: "https://github.com/ricardo-jorge-lopes-lab-res"
