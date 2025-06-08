@@ -29,3 +29,7 @@ Lectures and practicals are held at the National Museum of Natural History and S
 
 
 {% include feature_row %}
+
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
