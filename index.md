@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: single
 author_profile: false
 header:
