@@ -26,13 +26,6 @@ Lectures and practicals are held at the National Museum of Natural History and S
 
 
 
-feature_row:
-  - image_path: /assets/images/logo_ce3c.png
-  - image_path: /assets/images/logo_fcul.png
-  - image_path: assets/images/logo_muhnac.png
-
-
-
 
 
 {% include feature_row %}
