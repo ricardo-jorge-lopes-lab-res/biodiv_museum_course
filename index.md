@@ -24,20 +24,9 @@ Lectures and practicals are held at the National Museum of Natural History and S
 
 ![Project Image](/assets/images/logo_muhnac.png){:.align-center}
 
-<div class="image-row">
-  ![Image 1](/my-project/assets/images/image1.jpg){:.spaced-image}
-  <span class="image-text">First project highlight</span>
-  ![Image 2](/my-project/assets/images/image2.jpg){:.spaced-image}
-  <span class="image-text">Second project highlight</span>
-  ![Image 3](/my-project/assets/images/image3.jpg){:.spaced-image}
-</div>
 
 
-## More Images {#more-images}
-
-<div class="image-row">
-  ![Row Image 1](/assets/images/logo_ce3c.png){:.spaced-image}
-  ![Row Image 2](/assets/images/logo_fcul.png){:.spaced-image}
-  ![Row Image 3](assets/images/logo_muhnac.png){:.spaced-image}
-</div>
-
+feature_row:
+  - image_path: /assets/images/logo_ce3c.png
+  - image_path: /assets/images/logo_fcul.png
+  - image_path: assets/images/logo_fcul.png
