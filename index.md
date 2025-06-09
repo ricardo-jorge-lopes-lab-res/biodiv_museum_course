@@ -24,27 +24,20 @@ Lectures and practicals are held at the National Museum of Natural History and S
 
 ## topics
 
-1. **beyond the specimen**
+**beyond the specimen**
+present the "extend specimen" concept, and the potentially limitless use of Biological collections.
 
-present the "extend specimen" concept, and the potentially limitless use of Biological collections
+**genetics**
+consider how museum specimens provide genetic and genomic resources and how to retrieve genomic data from historical specimens.
 
-2. **genetics**
+**molecular**
+present other non-genetic molecular methods, such as stable isotopes, toxicology and quantification of coloration.
 
-consider how museum specimens provide genetic and genomic resources and how to retrieve genomic data from historical specimens
+**whole specimen**
+discuss state-of-the-art ‘whole specimen’ techniques including CT scanning, 3D models, 3d printing.
 
-3. **molecular**
+**data**
+understand the potential of the spatial and temporal data, available in global repositories, such as GBIF and the power of machine learning techniques to mobilize data from specimens.
 
-present other non-genetic molecular methods, such as stable isotopes, toxicology and quantification of coloration
-
-4. **whole specimen**
-
-discuss state-of-the-art ‘whole specimen’ techniques including CT scanning, 3D models, 3d printing
-
-5. **data**
-
-understand the potential of the spatial and temporal data, available in global repositories, such as GBIF and the power of machine learning techniques to mobilize data from specimens
-
-6. **preparations**
-
-practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come
-
+**preparations**
+practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come.
