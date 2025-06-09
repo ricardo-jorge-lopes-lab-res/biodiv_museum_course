@@ -6,7 +6,11 @@ header:
   image_description: "Description of the image"
 ---
 
-Already at its 7th edition, this is an intensive course on innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research
+**Registration** End day 15 June
+{: .notice}
+
+
+Already at its 7th edition, this is an intensive course on innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research.
 
 ## training {#intructors}
 
@@ -18,22 +22,29 @@ In addition, students will practice how to prepare bird and mammal specimens, ho
 
 Lectures and practicals are held at the National Museum of Natural History and Science of the University of Lisbon (MUHNAC).
 
-{% include feature_row
-  id="feature_row_1"
-  type="left"
-  items=
-    [
-      {
-        "image_path": "/my-project/assets/images/row-image1.jpg",
-        "alt": "Row Image 1"
-      },
-      {
-        "image_path": "/my-project/assets/images/row-image1.jpg",
-        "alt": "Row Image 2"
-      },
-      {
-        "image_path": "/my-project/assets/images/row-image1.jpg",
-        "alt": "Row Image 3"
-      }
-    ]
-%}
+## topics
+
+1. **beyond the specimen**
+
+present the "extend specimen" concept, and the potentially limitless use of Biological collections
+
+2. **genetics**
+
+consider how museum specimens provide genetic and genomic resources and how to retrieve genomic data from historical specimens
+
+3. **molecular**
+
+present other non-genetic molecular methods, such as stable isotopes, toxicology and quantification of coloration
+
+4. **whole specimen**
+
+discuss state-of-the-art ‘whole specimen’ techniques including CT scanning, 3D models, 3d printing
+
+5. **data**
+
+understand the potential of the spatial and temporal data, available in global repositories, such as GBIF and the power of machine learning techniques to mobilize data from specimens
+
+6. **preparations**
+
+practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come
+
