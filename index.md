@@ -18,9 +18,22 @@ In addition, students will practice how to prepare bird and mammal specimens, ho
 
 Lectures and practicals are held at the National Museum of Natural History and Science of the University of Lisbon (MUHNAC).
 
-
-{% include feature_row %}
-
-
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include feature_row
+  id="feature_row_1"
+  type="left"
+  items=
+    [
+      {
+        "image_path": "/my-project/assets/images/row-image1.jpg",
+        "alt": "Row Image 1"
+      },
+      {
+        "image_path": "/my-project/assets/images/row-image1.jpg",
+        "alt": "Row Image 2"
+      },
+      {
+        "image_path": "/my-project/assets/images/row-image1.jpg",
+        "alt": "Row Image 3"
+      }
+    ]
+%}
