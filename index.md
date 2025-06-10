@@ -7,16 +7,16 @@ header:
 
 
   gallery1:
-  - url: /assets/images/gallery/2024 Museum Course-1.jpg
-    image_path: /assets/images/gallery/2024 Museum Course-1.jpg
+  - url: /assets/images/gallery/2024-Museum-Course-1.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/gallery/2024 Museum Course-2.jpg
-    image_path: /assets/images/gallery/2024 Museum Course-2.jpg
+  - url: /assets/images/gallery/2024-Museum-Course-2.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/gallery/2024 Museum Course-3.jpg
-    image_path: /assets/images/gallery/2024 Museum Course-3.jpg
+  - url: /assets/images/gallery/2024-Museum-Course-3.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-3.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
