@@ -6,7 +6,7 @@ header:
   image_description: "Description of the image"
 
 
-  gallery:
+  gallery1:
   - url: /assets/images/gallery/2024 Museum Course-1.jpg
     image_path: /assets/images/gallery/2024 Museum Course-1.jpg
     alt: "placeholder image 1"
@@ -71,7 +71,7 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## gallery
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id=“gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
 
 
