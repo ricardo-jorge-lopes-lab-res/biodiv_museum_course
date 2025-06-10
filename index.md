@@ -20,17 +20,7 @@ header:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
-gallery2:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
-    
+
 ---
 
 **Registration** End day 15 June
@@ -75,4 +65,14 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include figure popup=true image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+
+<figure class="third">
+	<img src="/assets/images/gallery/2024-Museum-Course-1.jpg">
+	<img src="/assets/images/gallery/2024-Museum-Course-1.jpg">
+	<img src="/assets/images/gallery/2024-Museum-Course-1.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+
