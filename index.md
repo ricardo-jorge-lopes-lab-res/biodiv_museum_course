@@ -4,6 +4,22 @@ author_profile: false
 header:
   image: /assets/images/hero.jpg
   image_description: "Description of the image"
+
+
+  gallery:
+  - url: /assets/images/gallery/2024 Museum Course-1.jpg
+    image_path: /assets/images/gallery/2024 Museum Course-1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/gallery/2024 Museum Course-2.jpg
+    image_path: /assets/images/gallery/2024 Museum Course-2.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/gallery/2024 Museum Course-3.jpg
+    image_path: /assets/images/gallery/2024 Museum Course-3.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
 ---
 
 **Registration** End day 15 June
@@ -41,3 +57,7 @@ understand the potential of the spatial and temporal data, available in global r
 
 **preparations**
 practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come.
+
+## gallery
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}g
