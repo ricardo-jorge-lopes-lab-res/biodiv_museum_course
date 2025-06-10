@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: false
 header:
   image: /assets/images/hero.jpg
@@ -60,4 +60,4 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## gallery
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}g
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
