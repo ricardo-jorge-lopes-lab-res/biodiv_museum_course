@@ -10,11 +10,9 @@ plugins:
 
 minimal_mistakes_skin: default
 author:
-  name: "Ricardo Jorge Lopes"
-  bio: "The Ricardo Jorge Lopes Lab at the FCUL and CE3C uses birds to study the importance of key traits on the evolution and long-term conservation of biodiversity. These range from coloration and trophic interactions to host-parasite systems. As Curator of the Avian Collection of the MUHNAC - National Museum of Natural History and Science and Invited Curator at the MHNC-UP - Natural History and Science Museum of the University of Porto, we promote the value of avian specimens for research."
+  name: "Ricardo Jorge Lopes Lab"
+  bio: "We are based at the FCUL and CE3C, and use birds to study the importance of key traits on the evolution and long-term conservation of biodiversity. These range from coloration and trophic interactions to host-parasite systems. As Curator of the Avian Collection of the MUHNAC - National Museum of Natural History and Science and Invited Curator at the MHNC-UP - Natural History and Science Museum of the University of Porto, we promote the value of avian specimens for research."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "website"
+      icon: "fab fa-fw fa-flask"
       url: "https://ricardojorgelopes.com"
-
-
