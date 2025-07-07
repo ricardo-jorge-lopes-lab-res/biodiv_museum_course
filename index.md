@@ -7,6 +7,8 @@ header:
   image_description: “course banner"
   caption: “registrations closed"
 
+author_profile: true
+
   gallery:
   - url: /assets/images/gallery/2024-Museum-Course-1.jpg
     image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
