@@ -9,7 +9,9 @@ plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: default
 
-
+atom_feed:
+  hide: true
+  
 author:
   name: "Ricardo Jorge Lopes Lab"
   avatar: "/assets/images/logo.png"
