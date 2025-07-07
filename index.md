@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "Museum Techniques in the 21st Century"
-hide_title: true
 subtitle: "Advanced Course · BIODIV Doctoral Programme"
+hide_title: true
 header:
+  overlay: true
   image: /assets/images/hero.jpg
   image_description: “course banner"
   caption: “registrations closed"
-
 author_profile: true
 
 ---
