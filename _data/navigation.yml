@@ -3,3 +3,5 @@ main:
     url: /#intructors
   - title: "Where"
     url: /#where
+  - title: "Topics"
+    url: /#topics
