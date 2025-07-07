@@ -14,6 +14,7 @@ atom_feed:
   hide: true
   
 footer:
+  text: "© 2025 · all rights reserved ·"
   links:
     - label: Ricardo Jorge Lopes Lab
       icon: "fas fa-link"
