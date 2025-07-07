@@ -23,13 +23,13 @@ Already at its 7th edition, this is an intensive course on innovative uses of mu
 
 ## training {#intructors}
 
-The host instructors, from [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt) and [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon, will share their knowledge and experience on preparing, curating, and using museum specimens. This will be complemented by lectures of several invited researchers (presential & online).
+The host instructors, from [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt), Centre for Ecology, Evolution and Environmental Changes at the Faculty of Sciences and [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon, will share their knowledge and experience on preparing, curating, and using museum specimens. This will be complemented by lectures of several invited researchers (presential & online).
 
-In addition, students will practice how to prepare bird and mammal specimens, how tissues can be obtained and preserved for a variety of uses, and how to obtain coloration data and how to prepare 3D models and digital vouchers.
+In addition, students will practice how to prepare bird and mammal specimens, how tissues can be obtained and preserved for a variety of uses, how to obtain coloration data, how to prepare 3D models and digital vouchers, and how to prepare museological data and how to retrieve it from global repositories.
 
 ## where {#where}
 
-Lectures and practicals are held at the National Museum of Natural History and Science of the University of Lisbon (MUHNAC).
+Lectures and practicals are held at the [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon, located at the Rua da Escola Politécnica, 58. To get there by metro, you can get out at the terminal station of the Metro Yellow line (Rato).
 
 
 ## topics {#topics}
@@ -80,7 +80,7 @@ permalink: /gallery/
 ## 🖼️ Gallery
 
 <div class="gallery">
-  <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 1" style="width:30%; margin: 5px;">
+  <img src="/assets/images/2024-Museum-Course-1.jpg" alt="Image 1" style="width:30%; margin: 5px;">
   <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 2" style="width:30%; margin: 5px;">
   <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 3" style="width:30%; margin: 5px;">
 </div>
