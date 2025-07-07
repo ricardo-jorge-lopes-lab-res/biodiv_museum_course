@@ -6,6 +6,21 @@ header:
   image: /assets/images/hero.jpg
   image_description: “course banner"
   caption: “registrations closed"
+
+  gallery:
+  - url: /assets/images/gallery/2024-Museum-Course-1.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/gallery/2024-Museum-Course-21.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-21.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/gallery/2024-Museum-Course-2.jpg
+    image_path: /assets/images/gallery/2024-Museum-Course-2.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
 ---
 
 Welcome to the Biodiversity Museum Course! 🌿
@@ -51,3 +66,8 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
   <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-2.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
   <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-3.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
 </div>
+
+
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
