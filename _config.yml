@@ -21,3 +21,10 @@ author:
     - label: "website"
       icon: "fab fa-fw fa-flask"
       url: "https://ricardojorgelopes.com"
+
+
+footer:
+  links:
+    - label: “Ricardo Jorge Lopes Lab"
+      icon: "fab fa-fw fa-link"
+      url: "https://ricardojorgelopes.com"
