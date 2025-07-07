@@ -19,12 +19,12 @@ author:
   location: “Lisbon, Portugal"
   links:
     - label: "website"
-      icon: "fab fa-fw fa-flask"
+      icon: “fas fa-link"
       url: "https://ricardojorgelopes.com"
 
 
 footer:
   links:
-    - label: “Ricardo Jorge Lopes Lab"
-      icon: "fab fa-fw fa-link"
+    - label: Ricardo Jorge Lopes Lab
+      icon: "fas fa-link"
       url: "https://ricardojorgelopes.com"
