@@ -32,7 +32,7 @@ In addition, students will practice how to prepare bird and mammal specimens, ho
 Lectures and practicals are held at the National Museum of Natural History and Science of the University of Lisbon (MUHNAC).
 
 
-## topics
+## topics {#topics}
 
 **beyond the specimen**
 present the "extend specimen" concept, and the potentially limitless use of Biological collections.
@@ -52,7 +52,7 @@ understand the potential of the spatial and temporal data, available in global r
 **preparations**
 practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come.
 
-## gallery
+## gallery {#gallery}
 
 ---
 layout: gallery
@@ -77,3 +77,10 @@ permalink: /gallery/
 </figure>
 
 
+## 🖼️ Gallery
+
+<div class="gallery">
+  <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 1" style="width:30%; margin: 5px;">
+  <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 2" style="width:30%; margin: 5px;">
+  <img src="/biodiv_museum_course/assets/images/2024-Museum-Course-1.jpg" alt="Image 3" style="width:30%; margin: 5px;">
+</div>
