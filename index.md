@@ -62,11 +62,7 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 ## 📷 gallery
 
 
-<div class="gallery">
-  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-1.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
-  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-2.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
-  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-3.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
-</div>
+
 
 
 <!-- Lightbox CSS -->
@@ -82,10 +78,18 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
   <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
     <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
   </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 1">
+    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 2">
+    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
+    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
 </div>
 
 <!-- Lightbox JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
