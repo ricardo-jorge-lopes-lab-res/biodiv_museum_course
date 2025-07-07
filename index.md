@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Museum Techniques in the 21st Century"
 subtitle: "Advanced Course · BIODIV Doctoral Programme"
 header:
@@ -9,25 +9,13 @@ header:
 
 author_profile: true
 
-  gallery:
-  - url: /assets/images/gallery/2024-Museum-Course-1.jpg
-    image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/gallery/2024-Museum-Course-21.jpg
-    image_path: /assets/images/gallery/2024-Museum-Course-21.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/gallery/2024-Museum-Course-2.jpg
-    image_path: /assets/images/gallery/2024-Museum-Course-2.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-
 ---
 
-Welcome to the Biodiversity Museum Course! 🌿
+🌿 **Welcome to the Museum Techniques in the 21st Century!** 🌿
 
-Already at its 7th edition, this is an intensive course on innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research.
+Already at its 7th edition, this is an advanced PhD intensive course on the innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research.
+
+This course is part of the course portfolio that is offered to the students by the [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt). Check the other courses in [here](https://www.ce3c.pt/training/advanced-courses).
 
 ##  🧐 training {#intructors}
 
@@ -63,10 +51,6 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## 📷 gallery
 
-
-
-
-
 <!-- Lightbox CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
@@ -80,18 +64,34 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
   <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
     <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
   </a>
-    <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 1">
-    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+    <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_04.jpg" data-lightbox="course-gallery" data-title="Gallery Image 4">
+    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_04jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
   </a>
-  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 2">
-    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  <a href="/biodiv_museum_course/assets/images/gallery/2023_museum_course_01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 5">
+    <img src="/biodiv_museum_course/assets/images/gallery/2023_museum_course_01.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
   </a>
-  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
-    <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  <a href="/biodiv_museum_course/assets/images/gallery/2023_museum_course_02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 6">
+    <img src="/biodiv_museum_course/assets/images/gallery/2023_museum_course_02.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2023_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 7">
+    <img src="/biodiv_museum_course/assets/images/gallery/2023_museum_course_03.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2023_museum_course_04.jpg" data-lightbox="course-gallery" data-title="Gallery Image 8">
+    <img src="/biodiv_museum_course/assets/images/gallery/2023_museum_course_04.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2023_museum_course_05.jpg" data-lightbox="course-gallery" data-title="Gallery Image 9">
+    <img src="/biodiv_museum_course/assets/images/gallery/2023_museum_course_05.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2024_museum_course_01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2024_museum_course_01.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2024_museum_course_02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2024_museum_course_02.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2024_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2024_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
   </a>
 </div>
 
 <!-- Lightbox JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-
