@@ -73,13 +73,13 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
 <div class="gallery">
-  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" data-lightbox="course-gallery" data-title=“2022 Group Photo">
+  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 1">
     <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_01.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
   </a>
-  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" data-lightbox="course-gallery" data-title=“Specimen Images">
+  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 2">
     <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_02.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
   </a>
-  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title=“Preparation of Specimens">
+  <a href="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
     <img src="/biodiv_museum_course/assets/images/gallery/2022_museum_course_03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
   </a>
 </div>
