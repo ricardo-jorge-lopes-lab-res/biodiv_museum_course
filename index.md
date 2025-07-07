@@ -44,3 +44,10 @@ understand the potential of the spatial and temporal data, available in global r
 practice the ways that vouchers of vertebrates can be prepared to ensure that quality data is available for generations to come.
 
 
+## 🖼️ Gallery
+
+<div class="gallery">
+  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-1.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-2.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  <img src="/biodiv_museum_course/assets/images/gallery/2024-Museum-Course-3.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+</div>
