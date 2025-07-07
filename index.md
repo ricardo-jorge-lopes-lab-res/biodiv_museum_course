@@ -54,6 +54,20 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## gallery
 
+---
+layout: gallery
+title: "Course Gallery"
+images:
+  - image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
+    alt: "Image 1"
+  - image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
+    alt: "Image 2"
+  - image_path: /assets/images/gallery/2024-Museum-Course-1.jpg
+    alt: "Image 3"
+permalink: /gallery/
+---
+
+
 
 <figure class="third">
 	<img src="images/gallery/2024-Museum-Course-1.jpg">
