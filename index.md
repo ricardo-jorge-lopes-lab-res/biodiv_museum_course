@@ -3,8 +3,8 @@ layout: splash
 title: "Museum Techniques in the 21st Century"
 subtitle: "Advanced Course · BIODIV Doctoral Programme"
 header:
-  overlay_image: /biodiv_museum_course/assets/images/hero.jpg
-  overlay_filter: 0.3
+  image: /assets/images/hero.jpg
+  image_description: “course banner"
   caption: “registrations closed"
 ---
 
