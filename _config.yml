@@ -16,12 +16,7 @@ author:
   name: "Ricardo Jorge Lopes Lab"
   avatar: "/assets/images/logo.png"
   bio: "We study the importance of key traits on the evolution and long-term conservation of avian biodiversity, from coloration and trophic interactions to host-parasite systems. As Curator of Avian Collections we promote the value of avian specimens for research."
-  location: “Lisbon, Portugal"
-  links:
-    - label: "website"
-      icon: “fas fa-link"
-      url: "https://ricardojorgelopes.com"
-
+  location: Lisbon, Portugal
 
 footer:
   links:
