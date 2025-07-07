@@ -8,13 +8,9 @@ header:
   image: /assets/images/hero.jpg
   image_description: “course banner"
   caption: “registrations closed"
-author_profile: true
 
-footer:
-  text: "© 2025 · all rights reserved ·"
+
 ---
-
-🌿 **Welcome to the Museum Techniques in the 21st Century!** 🌿
 
 Already at its 7th edition, this is an advanced PhD intensive course on the innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research.
 
@@ -22,9 +18,11 @@ This course is part of the course portfolio that is offered to the students by t
 
 ##  🧐 training {#intructors}
 
-The host instructors, from [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt), Centre for Ecology, Evolution and Environmental Changes at the Faculty of Sciences and [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon, will share their knowledge and experience on preparing, curating, and using museum specimens. This will be complemented by lectures of several invited researchers (presential & online).
+The host instructors, from [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt), Centre for Ecology, Evolution and Environmental Changes at the Faculty of Sciences and [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon.
 
-In addition, students will practice how to prepare bird and mammal specimens, how tissues can be obtained and preserved for a variety of uses, how to obtain coloration data, how to prepare 3D models and digital vouchers, and how to prepare museological data and how to retrieve it from global repositories.
+[Ricardo Jorge Lopes](https://ciencias.ulisboa.pt/pt/perfil/rjlopes), will organize and teach most of the concepts concerning curating, and using museum specimens, while the team of taxidermists of MUHNAC, [Pedro Andrade] (https://www.museus.ulisboa.pt/pessoa/pedro-andrade) and Ana Campos will share their knowledge and experience on preparing vertebrate specimens. This will be complemented by lectures of several invited researchers (presential & online).
+
+Students will practice how to prepare bird and mammal specimens, how tissues can be obtained and preserved for a variety of uses, how to obtain coloration data, how to prepare 3D models and digital vouchers, and how to prepare and clean data from specimens and how to retrieve them from global repositories.
 
 ## 🔎 where {#where}
 
