@@ -16,3 +16,10 @@ author:
     - label: "website"
       icon: "fab fa-fw fa-flask"
       url: "https://ricardojorgelopes.com"
+
+
+
+collections:
+  galleries:
+    output: true
+
