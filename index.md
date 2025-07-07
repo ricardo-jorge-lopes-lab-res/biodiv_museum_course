@@ -10,6 +10,8 @@ header:
   caption: “registrations closed"
 author_profile: true
 
+footer:
+  text: "© 2025 · all rights reserved ·"
 ---
 
 🌿 **Welcome to the Museum Techniques in the 21st Century!** 🌿
