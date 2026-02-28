@@ -52,6 +52,52 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## 📷 gallery
 
+**2025 Edition**
+
+<!-- Lightbox CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
+
+<div class="gallery">
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-01.jpg" data-lightbox="course-gallery" data-title="Gallery Image 1">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-01.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-02.jpg" data-lightbox="course-gallery" data-title="Gallery Image 2">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-02.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-03.jpg" data-lightbox="course-gallery" data-title="Gallery Image 3">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-03.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-04.jpg" data-lightbox="course-gallery" data-title="Gallery Image 4">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-04.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-05.jpg" data-lightbox="course-gallery" data-title="Gallery Image 5">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-05.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-06.jpg" data-lightbox="course-gallery" data-title="Gallery Image 6">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-06.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-07.jpg" data-lightbox="course-gallery" data-title="Gallery Image 7">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-07.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-08.jpg" data-lightbox="course-gallery" data-title="Gallery Image 8">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-08.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-09.jpg" data-lightbox="course-gallery" data-title="Gallery Image 9">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-09.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+    <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-10.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-10.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-11.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-11.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-12.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-12.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+</div>
+
+
+**Earlier editions**
 <!-- Lightbox CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
