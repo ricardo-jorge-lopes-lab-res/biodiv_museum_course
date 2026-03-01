@@ -163,9 +163,6 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
   <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-35.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
     <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-35.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
   </a>
-  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-36.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
-    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-36.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
-  </a>
 </div>
 
 
