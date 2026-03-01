@@ -94,10 +94,83 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
   <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-12.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
     <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-12.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
   </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-13.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-13.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-14.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-14.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-15.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-15.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-16.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-16.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-17.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-17.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-18.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-18.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-19.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-19.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-20.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-20.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-21.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-21.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-22.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-22.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-23.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-23.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-24.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-24.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-25.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-25.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-26.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-26.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-27.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-27.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+      <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-28.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-28.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-29.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-29.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-30.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-30.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+        <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-31.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-31.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-32.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-32.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-33.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-33.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
+        <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-34.jpg" data-lightbox="course-gallery" data-title="Gallery Image 10">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-34.jpg" alt="Gallery Image 1" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-35.jpg" data-lightbox="course-gallery" data-title="Gallery Image 11">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-35.jpg" alt="Gallery Image 2" style="width:30%; margin: 5px;">
+  </a>
+  <a href="/biodiv_museum_course/assets/images/gallery/2025-museum-course-36.jpg" data-lightbox="course-gallery" data-title="Gallery Image 12">
+    <img src="/biodiv_museum_course/assets/images/gallery/2025-museum-course-36.jpg" alt="Gallery Image 3" style="width:30%; margin: 5px;">
+  </a>
 </div>
 
 
 **Earlier editions**
+
 <!-- Lightbox CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
