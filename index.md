@@ -11,10 +11,14 @@ header:
 
 
 ---
+Welcome to the Museum Techniques in the 21st Century! 🌿
 
 Already at its 8th edition, this is an advanced PhD intensive course on the innovative uses of museum’s resources for vertebrate’s research. By the end of this course students will have an updated overview of the potential of museum collections for biodiversity research.
 
 This course is part of the course portfolio that is offered to the students by the [CE3C](https://www.ce3c.pt)-[FCUL](https://ciencias.ulisboa.pt). Check the other courses in [here](https://www.ce3c.pt/training/advanced-courses).
+
+To register to this course, please follow this **[link](https://www.ce3c.pt/agenda/advanced-courses/museum-techniques-in-the-21st-century-2025-2026)**.
+Deadline for Applications is **15 May 2026**.
 
 ##  🧐 training {#intructors}
 
@@ -23,6 +27,42 @@ The host instructors belong to [CE3C](https://www.ce3c.pt)-[FCUL](https://cienci
 [Ricardo Jorge Lopes](https://ciencias.ulisboa.pt/pt/perfil/rjlopes), organizes and teach most of the concepts concerning curating and using museum specimens. [Judite Alves](https://www.museus.ulisboa.pt/pessoa/judite-alves), Sub-Director of the MUHNAC, coordinates the course logistics and operation, while the team of taxidermists of MUHNAC, [Pedro Andrade](https://www.museus.ulisboa.pt/pessoa/pedro-andrade) and [Ana Campos](https://www.museus.ulisboa.pt/pessoa/ana-campos) will share their knowledge and experience on preparing vertebrate specimens. This will be complemented by lectures of several invited researchers (presential & online), along with hands-on sessions with several of the permanent curators at the museum.
 
 Students will practice in key and innovative museum techniques, from how to prepare bird and mammal specimens, how tissues can be obtained and preserved for a variety of uses, how to obtain coloration data, how to prepare 3D models and digital vouchers, and how to prepare and clean data from specimens and how to publish and retrieve data of global repositories.
+
+## 🧐 invited researchers {#invited}
+
+During all these editions we have been providing the students first-hand interaction with the people that everyday work on these subjects.
+We hosted some of these lecturers locally, and we engaged also with many them through online lectures and discussions.
+
+- Ricardo J. Pereira, Stuttgart State Museum of Natural History [Genomics, Museomics]
+- Renner Swen, Natural History Museum Vienna [Curation, Ornithology, Parasite Collections]
+
+### Other editions
+
+- Jay Warnett, University of Warwick, UK [CT Scans]
+- Christy A. Hipsley, University of Copenhagen, Denmark	[CT Scans, morphometrics]
+- Jen Bright, University of Hull, UK [Ornithology, morphometrics]
+- Ana Leitão, CIBIO-UP, Portugal [3D Printing, Photogrammetry, Coloration]
+
+- Jonas Astrin, Museum Koenig, Germany [Biobanking]
+- Inês Miranda, CIBIO-UP, Portugal [Mammalogy, Genomics, Coloration]
+- Diana Lobo, CIBIO-UP, Portugal [Mammalogy, Genomics]
+- Joel Alves, University of Oxford, UK [Temporal Genomics]
+ 
+- Paola Movalli, Naturalis Biodiversity Center, The Netherlands	[Toxicology]
+- Christopher R. Cooney, University of Sheffield, UK [Ornithology, Coloration]
+- Jan Lijfeld, UIO, Norway	[Curation, Ornithology, Avian Sperm Collections]
+- Renner Swen, Natural History Museum Vienna [Curation, Ornithology, Parasite Collections]
+
+- Joaquim Santos, Herbarium, University of Coimbra, Portugal [Data Digitalisation]
+- Rui Figueira, ISA and GBIF Portuguese node, Portugal [GBIF Data curation]
+- Pedro Tarroso,	CIBIO-UP, Portugal [GBIF Data use]
+- César Capinha, CEG-IGOT, University of Lisbon, Portugal [Species Niche Modelling]
+
+- Rita Rocha, CIBIO-UP, Portugal [Mammmal Taxidermy and specimen preparation]
+- Mary Margaret Ferraro, Cornell University Museum of Vertebrates, USA [Taxidermy and specimen preparation]
+- Alexandre Aleixo, Finnish Museum of Natural History, Finland & Instituto Tecnológico Vale, Brasil [Curation, Ornithology, Ornithology & genetic resources collections]
+- Vanya Rohwer, Cornell University Museum of Vertebrates, USA [Taxidermy and specimen preparation]
+
 
 ## 🔎 where {#where}
 
@@ -52,7 +92,7 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 
 ## 📷 gallery
 
-**2025 Edition**
+### 2025 Edition
 
 <!-- Lightbox CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
@@ -166,7 +206,7 @@ practice the ways that vouchers of vertebrates can be prepared to ensure that qu
 </div>
 
 
-**Earlier editions**
+### Earlier editions
 
 <!-- Lightbox CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
